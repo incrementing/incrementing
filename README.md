@@ -3,14 +3,13 @@
 
 ```text
 💬 Programming Languages: 
-Go                       5 mins              ████████████████████████░   97.56 % 
-Go Template              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -26,5 +25,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2024 18:38:19 UTC
+ Last Updated on 18/04/2024 18:37:34 UTC
 <!--END_SECTION:waka-->
