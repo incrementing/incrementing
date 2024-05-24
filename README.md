@@ -15,15 +15,15 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       26 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-Java                     14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Go                       26 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Java                     14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 23/05/2024 18:39:09 UTC
+ Last Updated on 24/05/2024 18:39:05 UTC
 <!--END_SECTION:waka-->
